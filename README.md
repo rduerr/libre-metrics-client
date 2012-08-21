@@ -6,12 +6,12 @@ Libre Metrics Service Client
 The Libre Metrics Service Client is a Java Client library that can be used to
 abstract the calling of the [Libre Metrics Service](https://github.com/nsidc/libre-metrics-service) directly, making it easier to incorporate metrics reporting in other Java projects 
 
-This project is being released as partial fullfillment of an NSF award number
-ARC 0946625.  This is non-working software and has not been previously
-distributed.  All of the code references to internal networks and servers have
-been removed throughout the project.  Any potential user will have to modify
-the source for their environemnt in order to use this code.  License
-information is provided in the LICENSE.txt file. 
+This project is being released as partial fullfillment of NSF award number ARC
+0946625 and NASA award number NNX10AE07A.  This is non-working software and has
+not been previously distributed.  All of the code references to internal
+networks and servers have been removed throughout the project.  Any potential
+user will have to modify the source for their environemnt in order to use this
+code.  License information is provided in the LICENSE.txt file. 
 
 ## Compilation notes:
 
